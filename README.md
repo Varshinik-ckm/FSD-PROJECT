@@ -12,8 +12,7 @@ A simple React + Supabase app that lets users share and categorize facts, and vo
 Frontend: React.js
 Backend-as-a-Service: Supabase (PostgreSQL + Auth + RLS)
 Styling: CSS
-🖼️ Screenshots
-image
+
 
 🧠 How It Works
 Users can view all facts or filter by category.
